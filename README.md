@@ -1,4 +1,4 @@
-# Animated images (cinemagraphs)
+# Animated looped images (cinemagraphs)
 
 <p align="center">
   <img src="https://github.com/norberello/lecture-images-and-clips/blob/main/21-22/all%20the%20same2.gif?raw=true" alt="penny lane centered">
