@@ -1,7 +1,7 @@
 # lecture-images-and-clips
 
 <p align="center">
-  <img src="penny lane tr.gif" alt="penny lane centered">
+  <img src="https://github.com/norberello/lecture-images-and-clips/blob/main/21-22/all%20the%20same2.gif?raw=true" alt="penny lane centered">
 </p>
 
 <p align="center">
